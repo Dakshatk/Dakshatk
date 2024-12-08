@@ -4,16 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshatk&label=Profile%20views&color=0e75b6&style=flat" alt="dakshatk" /> </p>
 
 - 🔭 I’m currently working on [#100daysofcode](https://github.com/Dakshatk/100daysofcode)
-
 - 🌱 I’m currently learning **DSA and Python**
-
 - 📫 How to reach me **dakshat2024@gmail.com**
-[![An image of @dakshatk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dakshatk)](https://holopin.io/@dakshatk)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dakshat-kalmodi-5417482a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dakshat-kalmodi-5417482a6" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@dakshatkalmodi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dakshatkalmodi21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dakshat25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dakshat25" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Check out my Holopin Badges:</h3>
+<p align="center">
+  [![An image of @dakshatk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dakshatk)](https://holopin.io/@dakshatk)
 </p>
 
 <h4 align="left">Frontend Skills:</h4>
