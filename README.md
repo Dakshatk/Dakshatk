@@ -16,7 +16,9 @@
 
 <h3 align="center">Check out my Holopin Badges:</h3>
 <p align="center">
-  [![An image of @dakshatk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dakshatk)](https://holopin.io/@dakshatk)
+  <a href="https://holopin.io/@dakshatk">
+    <img src="https://holopin.me/dakshatk" alt="Holopin badges of Dakshat Kalmodi"/>
+  </a>
 </p>
 
 <h4 align="left">Frontend Skills:</h4>
