@@ -2,8 +2,8 @@
 <h3 align="center">It's not about problem solving — it's about choosing the right problem to solve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshatk&label=Profile%20views&color=0e75b6&style=flat" alt="dakshatk" /> </p>
-
-- 🔭 I’m currently working on [#100daysofcode](https://github.com/Dakshatk/100daysofcode)
+)
+- 🔭 I’m currently working on a Crack Detection ML Model
 - 🌱 I’m currently learning **DSA and Python**
 - 📫 How to reach me **dakshat2024@gmail.com**
 
